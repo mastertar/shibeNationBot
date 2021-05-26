@@ -330,4 +330,4 @@ client.on('message', msg => {
 });
 
 
-client.login('Nzk3MTMyNjAzMjUzNDU2OTM3.X_iBlg.yHO3xhLn_0XN5AQUj9OufiJBQ0U');
+client.login('token');
